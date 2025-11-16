@@ -18,6 +18,10 @@ The goal of this project was to replicate the look and feel of the YouTube homep
 *   HTML5
 *   CSS3
 
+## Live Demo
+
+View the live project on GitHub Pages: [https://ullas02.github.io/youtube-clone/](https://ullas02.github.io/youtube-clone/)
+
 ## How to View
 
 1.  Clone this repository to your local machine.
