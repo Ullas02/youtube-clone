@@ -20,7 +20,7 @@ The goal of this project was to replicate the look and feel of the YouTube homep
 
 ## Live Demo
 
-View the live project on: [YouTube-Clone](https://ullas02.github.io/youtube-clone/)
+View the live project: [YouTube-Clone](https://ullas02.github.io/youtube-clone/)
 
 ## How to View
 
