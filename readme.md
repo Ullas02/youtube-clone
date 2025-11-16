@@ -1,6 +1,6 @@
 # YouTube Clone Project
 
-This project is a static clone of the YouTube homepage, created using HTML and CSS. It was developed as part of the SuperSimpleDev HTML & CSS course.
+This project is a static clone of the YouTube homepage, created using HTML and CSS.
 
 ## Description
 
